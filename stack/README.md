@@ -1,6 +1,6 @@
 # Directory stack
 
-> Points: 15 \
+> Points: 10 \
 > File: `stackd.sh`
 
 You have to reimplement `pushd`-`popd`-`dirs` utils in bash. The script must provide a function `stackd` which can be used to replace `pushd`-`popd`-`dirs`.
