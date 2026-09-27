@@ -1,6 +1,6 @@
 # Line counter
 
-> Points: 20 \
+> Points: 30 \
 > File: `line-counter.sh`
 
 You have to implement a script which calculates the LOC metric of a project. (LOC is `Lines Of Code`) 
