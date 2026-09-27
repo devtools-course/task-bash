@@ -4,39 +4,32 @@
 :icons: font
 
 > Branch: `bash` +
-> Fenrir ID: `bash`
+> Fenrir ID: `bash` +
+> Points: `100`
 
-WARNING: Tests need update!!!
-
-Your solution must be located at `term/bash`:
+Your solution must be located at `bash`:
 
 [,text,subs="+macros"]
 ----
 icon:folder[] ...
 ├─ icon:folder[] bash
-│  ├─ icon:folder[] column
-│  │  └─ icon:file-text[] column.sh
-│  ├─ icon:folder[] lines
-│  │  └─ icon:file-text[] line-counter.sh
-│  ├─ icon:folder[] scalar
-│  │  └─ icon:file-text[] prod.sh
-│  ├─ icon:folder[] stack
-│  │  └─ icon:file-text[] stackd.sh
-│  ├─ icon:folder[] sym-diff
-│  │  └─ icon:file-text[] sym-diff.sh
-│  └─ icon:folder[] wrapper
-│     └─ icon:file-text[] wrapper.sh
+│  ├─ icon:file-text[] column.sh
+│  ├─ icon:file-text[] line-counter.sh
+│  ├─ icon:file-text[] prod.sh
+│  ├─ icon:file-text[] stackd.sh
+│  ├─ icon:file-text[] sym-diff.sh
+│  └─ icon:file-text[] wrapper.sh
 └─ icon:folder[] .git
 ----
 
 == Tasks
 
-1. (15) link:https://github.com/devtools-course/task-bash/tree/main/column/README.md[Column]
-2. (20) link:https://github.com/devtools-course/task-bash/tree/main/lines/README.md[Line counter]
-3. (10) link:https://github.com/devtools-course/task-bash/tree/main/scalar/README.md[Scalar product]
-4. (15) link:https://github.com/devtools-course/task-bash/tree/main/stack/README.md[Directory stack]
-5. (15) link:https://github.com/devtools-course/task-bash/tree/main/sym-diff/README.md[Symmetric difference]
-6. (25) link:https://github.com/devtools-course/task-bash/tree/main/wrapper/README.md[Wrapper]
+1. (5) link:https://github.com/devtools-course/task-bash/tree/main/scalar/README.md[Scalar product]
+2. (10) link:https://github.com/devtools-course/task-bash/tree/main/stack/README.md[Directory stack]
+3. (15) link:https://github.com/devtools-course/task-bash/tree/main/column/README.md[Column]
+4. (15) link:https://github.com/devtools-course/task-bash/tree/main/sym-diff/README.md[Symmetric difference]
+5. (25) link:https://github.com/devtools-course/task-bash/tree/main/wrapper/README.md[Wrapper]
+6. (30) link:https://github.com/devtools-course/task-bash/tree/main/lines/README.md[Line counter]
 
 == Copyright
 
