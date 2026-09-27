@@ -1,6 +1,6 @@
 # Scalar product
 
-> Points: 10 \
+> Points: 5 \
 > File: `prod.sh`
 
 You have to calculate the scalar product of two vectors.
