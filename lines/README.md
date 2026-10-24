@@ -24,7 +24,7 @@ Since the CSV format allows different separators, your script must automatically
 
 ## Example
 
-`./line-counter.sh -i a.csv`
+`./line-counter.sh /tmp/testdir -i a.csv`
 * stdout: `12`
 * stderr: ``
 
