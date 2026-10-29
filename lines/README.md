@@ -20,7 +20,7 @@ OPTIONS:
 When both options are used, -e excludes files from the set selected by -i.
 ```
 
-Since the CSV format allows different separators, your script must automatically detect which one is used. It is guaranteed that the extensions consist of alphanumeric characters and maybe dots.
+Since the CSV format allows different separators, your script must automatically detect which one is used. It is guaranteed that the extensions consist of alphanumeric characters and maybe dots or spaces.
 
 ## Example
 
